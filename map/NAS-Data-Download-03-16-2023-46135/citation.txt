@@ -1,0 +1,3 @@
+﻿Please use the following citation when using downloaded data in publication:
+
+U.S. Geological Survey, 2023, Specimen observation data for <i>Sander vitreus</i> (Mitchill, 1818), Nonindigenous Aquatic Species Database, Gainesville, FL, https://nas.er.usgs.gov/viewer/omap.aspx?SpeciesID=831, Access Date: 3/16/2023.

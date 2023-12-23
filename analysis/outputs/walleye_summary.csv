@@ -1,0 +1,7 @@
+"Sample","Species","Habitat","sample_mean","sample_2sd","n_spots"
+"Walleye","Walleye","Unknown",0.70878,0.00022,26
+"Walleye","Walleye","Transition",0.70842,0.00013,3
+"Walleye","Walleye","Lake Cascade",0.70807,0.00027,15
+"Yellow Perch 1","Yellow Perch","Lake Cascade",0.70806,0.00021,37
+"Yellow Perch 2","Yellow Perch","Lake Cascade",0.70803,0.00022,45
+"Yellow Perch 3","Yellow Perch","Lake Cascade",0.70793,2e-04,64
